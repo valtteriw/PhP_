@@ -8,13 +8,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>COOOOKIEEEEEESSS!</title>
+<title>DEM_COOOOKIEEEEEESSS!</title>
 </head>
 
 <body>
 
 	<script>
-    	alert("Sivusto käyttää evästeitä, Jatkamalla hyväksyt ehdot! HÄHÄÄÄÄÄ");
+    	alert("Sivusto käyttää evästeitä, Jatkamalla hyväksyt ehdot! HÄHÄÄÄÄÄ, TROLOLOLLOOLO, !FOIL HAT!");
     </script>
     <img src="cookiemonster.jpeg" /><br>
     <?php
